@@ -1,0 +1,8 @@
+*.html
+*.user
+\bin
+\obj
+*.bkp
+*.dtmp
+.vscode
+.idea
